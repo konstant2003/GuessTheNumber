@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j9JOEnfcnD7OnTjAqFPAM386OKfDHhsVcQO0G8/FbwAqDPL25gJzzO28SdqVRp2v5NbCOihBX21dK/cafF0tqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\жоро\\Documents\\на коце\\programirane\\Upr_19.06\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\жоро\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\жоро\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

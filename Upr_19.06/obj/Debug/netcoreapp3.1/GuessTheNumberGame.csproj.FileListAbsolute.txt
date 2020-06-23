@@ -1,0 +1,16 @@
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\bin\Debug\netcoreapp3.1\GuessTheNumberGame.exe
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\bin\Debug\netcoreapp3.1\GuessTheNumberGame.deps.json
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\bin\Debug\netcoreapp3.1\GuessTheNumberGame.runtimeconfig.json
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\bin\Debug\netcoreapp3.1\GuessTheNumberGame.runtimeconfig.dev.json
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\bin\Debug\netcoreapp3.1\GuessTheNumberGame.dll
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\bin\Debug\netcoreapp3.1\GuessTheNumberGame.pdb
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\bin\Debug\netcoreapp3.1\ProgrammingFundamentalsClassLibrary.dll
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\bin\Debug\netcoreapp3.1\ProgrammingFundamentalsClassLibrary.pdb
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\obj\Debug\netcoreapp3.1\GuessTheNumberGame.csprojAssemblyReference.cache
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\obj\Debug\netcoreapp3.1\GuessTheNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\obj\Debug\netcoreapp3.1\GuessTheNumberGame.AssemblyInfoInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\obj\Debug\netcoreapp3.1\GuessTheNumberGame.AssemblyInfo.cs
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\obj\Debug\netcoreapp3.1\GuessTheNumberGame.csproj.CopyComplete
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\obj\Debug\netcoreapp3.1\GuessTheNumberGame.dll
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\obj\Debug\netcoreapp3.1\GuessTheNumberGame.pdb
+C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\Upr_19.06\obj\Debug\netcoreapp3.1\GuessTheNumberGame.genruntimeconfig.cache

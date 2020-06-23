@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Upr_19.06/1.0.0": {
+        "dependencies": {
+          "ProgrammingFundamentalsClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Upr_19.06.dll": {}
+        }
+      },
+      "ProgrammingFundamentalsClassLibrary/1.0.0": {
+        "runtime": {
+          "ProgrammingFundamentalsClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Upr_19.06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProgrammingFundamentalsClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
