@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j9JOEnfcnD7OnTjAqFPAM386OKfDHhsVcQO0G8/FbwAqDPL25gJzzO28SdqVRp2v5NbCOihBX21dK/cafF0tqw==",
+  "dgSpecHash": "0eUJBPc8gCQqp7+VBo/SnZkxQ/ErMK3H6iVYGHocLH2rZw8Mt5sJxFGL/cdFPPrbqpILEsc3YIJHnOau7LW/SA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\жоро\\Documents\\на коце\\programirane\\Upr_19.06\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj",
+  "projectFilePath": "C:\\Users\\жоро\\Documents\\GitHub\\GuessTheNumber\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\жоро\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\жоро\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

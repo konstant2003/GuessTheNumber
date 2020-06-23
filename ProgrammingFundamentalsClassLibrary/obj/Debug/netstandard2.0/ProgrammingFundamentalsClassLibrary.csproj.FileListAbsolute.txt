@@ -7,3 +7,11 @@ C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\ProgrammingFund
 C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\ProgrammingFundamentalsClassLibrary\obj\Debug\netstandard2.0\ProgrammingFundamentalsClassLibrary.AssemblyInfo.cs
 C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\ProgrammingFundamentalsClassLibrary\obj\Debug\netstandard2.0\ProgrammingFundamentalsClassLibrary.dll
 C:\Users\жоро\Documents\на коце\programirane\Upr_19.06\ProgrammingFundamentalsClassLibrary\obj\Debug\netstandard2.0\ProgrammingFundamentalsClassLibrary.pdb
+C:\Users\жоро\Documents\GitHub\GuessTheNumber\ProgrammingFundamentalsClassLibrary\bin\Debug\netstandard2.0\ProgrammingFundamentalsClassLibrary.deps.json
+C:\Users\жоро\Documents\GitHub\GuessTheNumber\ProgrammingFundamentalsClassLibrary\bin\Debug\netstandard2.0\ProgrammingFundamentalsClassLibrary.dll
+C:\Users\жоро\Documents\GitHub\GuessTheNumber\ProgrammingFundamentalsClassLibrary\bin\Debug\netstandard2.0\ProgrammingFundamentalsClassLibrary.pdb
+C:\Users\жоро\Documents\GitHub\GuessTheNumber\ProgrammingFundamentalsClassLibrary\obj\Debug\netstandard2.0\ProgrammingFundamentalsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\жоро\Documents\GitHub\GuessTheNumber\ProgrammingFundamentalsClassLibrary\obj\Debug\netstandard2.0\ProgrammingFundamentalsClassLibrary.AssemblyInfoInputs.cache
+C:\Users\жоро\Documents\GitHub\GuessTheNumber\ProgrammingFundamentalsClassLibrary\obj\Debug\netstandard2.0\ProgrammingFundamentalsClassLibrary.AssemblyInfo.cs
+C:\Users\жоро\Documents\GitHub\GuessTheNumber\ProgrammingFundamentalsClassLibrary\obj\Debug\netstandard2.0\ProgrammingFundamentalsClassLibrary.dll
+C:\Users\жоро\Documents\GitHub\GuessTheNumber\ProgrammingFundamentalsClassLibrary\obj\Debug\netstandard2.0\ProgrammingFundamentalsClassLibrary.pdb

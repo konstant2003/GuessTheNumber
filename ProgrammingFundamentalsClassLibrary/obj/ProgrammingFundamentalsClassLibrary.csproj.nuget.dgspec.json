@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\жоро\\Documents\\на коце\\programirane\\Upr_19.06\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj": {}
+    "C:\\Users\\жоро\\Documents\\GitHub\\GuessTheNumber\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\жоро\\Documents\\на коце\\programirane\\Upr_19.06\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj": {
+    "C:\\Users\\жоро\\Documents\\GitHub\\GuessTheNumber\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\жоро\\Documents\\на коце\\programirane\\Upr_19.06\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\жоро\\Documents\\GitHub\\GuessTheNumber\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj",
         "projectName": "ProgrammingFundamentalsClassLibrary",
-        "projectPath": "C:\\Users\\жоро\\Documents\\на коце\\programirane\\Upr_19.06\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj",
+        "projectPath": "C:\\Users\\жоро\\Documents\\GitHub\\GuessTheNumber\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj",
         "packagesPath": "C:\\Users\\жоро\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\жоро\\Documents\\на коце\\programirane\\Upr_19.06\\ProgrammingFundamentalsClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\жоро\\Documents\\GitHub\\GuessTheNumber\\ProgrammingFundamentalsClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\жоро\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumberGame", "Upr_19.06\GuessTheNumberGame.csproj", "{C5145615-0426-48D9-8D7A-2B509B19ABAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumberGame", "GuessTheNumberGame\GuessTheNumberGame.csproj", "{C5145615-0426-48D9-8D7A-2B509B19ABAA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgrammingFundamentalsClassLibrary", "ProgrammingFundamentalsClassLibrary\ProgrammingFundamentalsClassLibrary.csproj", "{A3DA19A9-A22C-47D9-9548-3C74FAF80C7D}"
 EndProject

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\жоро\\Documents\\на коце\\programirane\\Upr_19.06\\Upr_19.06\\GuessTheNumberGame.csproj",
+      "projectUniqueName": "C:\\Users\\жоро\\Documents\\GitHub\\GuessTheNumber\\GuessTheNumberGame\\GuessTheNumberGame.csproj",
       "projectName": "GuessTheNumberGame",
-      "projectPath": "C:\\Users\\жоро\\Documents\\на коце\\programirane\\Upr_19.06\\Upr_19.06\\GuessTheNumberGame.csproj",
+      "projectPath": "C:\\Users\\жоро\\Documents\\GitHub\\GuessTheNumber\\GuessTheNumberGame\\GuessTheNumberGame.csproj",
       "packagesPath": "C:\\Users\\жоро\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\жоро\\Documents\\на коце\\programirane\\Upr_19.06\\Upr_19.06\\obj\\",
+      "outputPath": "C:\\Users\\жоро\\Documents\\GitHub\\GuessTheNumber\\GuessTheNumberGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\жоро\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\жоро\\Documents\\на коце\\programirane\\Upr_19.06\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\жоро\\Documents\\на коце\\programirane\\Upr_19.06\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj"
+            "C:\\Users\\жоро\\Documents\\GitHub\\GuessTheNumber\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\жоро\\Documents\\GitHub\\GuessTheNumber\\ProgrammingFundamentalsClassLibrary\\ProgrammingFundamentalsClassLibrary.csproj"
             }
           }
         }
